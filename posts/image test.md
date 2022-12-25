@@ -1,1 +1,1 @@
-![[Public/images/high quality.png]]
+![[high quality.png]]
