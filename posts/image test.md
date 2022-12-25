@@ -1,0 +1,1 @@
+![[Public/images/DALL·E 2022-12-04 17.32.07 -  a white board,  that wrriten  word _mc 4_,  high quality.png]]
