@@ -1,1 +1,1 @@
-![[high quality.png]]
+![[images/high quality.png]]
