@@ -6,9 +6,9 @@
 /.yarn
 
 
-/posts/Areas of Responsibility/Finance/**
-/posts/Archives/Private
-/posts/Archives/Sensitive
+/posts/Areas of Responsibility/Finance/
+/posts/Archives/Private/
+/posts/Archives/Sensitive/
 # dependencies
 /node_modules
 /.pnp
