@@ -5,6 +5,9 @@
 /.vscode
 /.yarn
 
+/posts/Areas of Responsibility/Finance/**
+/Archives/Private/**
+/Archives/Sensitive/**
 # dependencies
 /node_modules
 /.pnp
