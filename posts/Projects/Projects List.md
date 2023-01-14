@@ -1,2 +1,2 @@
 
-[[GitLab Runner CI CD]]
+[[GitLab_CI_CD]]
