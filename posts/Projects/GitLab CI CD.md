@@ -1,4 +1,4 @@
-test
+
 ```sh
 #!/bin/bash
 sudo hostnamectl set-hostname Gitlab.local
