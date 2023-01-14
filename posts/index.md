@@ -1,57 +1,26 @@
-## What is MindStone?
-MindStone is a free open-source alternative solution to [Obsidian Publish](https://obsidian.md/publish)
 
-Here how it look like once published:
+사이트 이용 방법
 
-![](/images/CleanShot%202022-04-20%20at%2008.34.17@2x.png)
+노트단위의 글을 이용하며 됩니다
+노트는 각 연결된 노트의 관계를 오른쪽 그림을 통해 보여주며 클릭시 이동이 가능합니다
 
-This website include a published version of default Obsidian Help vault, [[Start here]]
-
-**MindStone features:**
-
--  ✅ **Drop-in** support for (default) **Obsidian Vault** 
--  ✅ `[[Wiki Link]]` built-in support
--  ✅ **Folder-base** navigation side bar
--  ✅ Backlink support out of the box
--  ✅ Interactive Graph view 
--  ✅ **Easy to deploy** to Netlify, Vercel...
-
-## Getting started
-### Run on your local machine
-
-Steps to run it on your local machine:
-1. Clone this [Github repo](https://github.com/TuanManhCao/digital-garden)
-2. Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) package manager 
-3. Copy all of your **markdown** file (`.md` only) and folder to `/posts/` **except** `/posts/index.md` file
-4. Go to root folder of your project, run `yarn && yarn run dev`
-5. Open this link in your browser http://localhost:3000/ 
-
-If you prefer video content have a look at my 📺 [walk through video](https://youtu.be/7_SmWA-_Wx8) 
-
-### Publish to the internet
-
-Setup environment (with Netlify)
-1. Create your Github account and clone [my repository](https://github.com/TuanManhCao/digital-garden)
-2. Create Netlify account and follow [this instruction](https://www.netlify.com/blog/2020/11/30/how-to-deploy-next.js-sites-to-netlify/) 
+(가장 위 = Most Active 아래로 갈수록 less active)
 
 
-Your normal workflow for publishing content, after initial setup is:
-1. Simply writing your content in Obisidian (or your favourite Markdown editor)
-2. Commit your changes and Push it to your Github repo
+[[Projects]]
+현재 가장 Actuve한 활동
 
 
-If you prefer video content, watch my 📺 [walk through video](https://youtu.be/n8QDO6l64aw) here 
 
-These are just some basic features for MindStone v1, many more are coming (if I find enough of interest and this will probably a premium/paid option):
-- 🎯 Obsidian, Notion, VSCode Plugin 
-- 🎯 Page Preview (like Obsidian Core plugin)
-- 🎯 Andy Sliding pane
-- 🎯 Full text search with `Cmd + K`
-- 🎯 Infinite canvas for browsing through notes and connections
+[[Areas of Responsibility]]
+Projects를 포함한 크게 변하지 않고 유지 돼야 할 영역들.
+보통 담당하는 책임별로 구분
 
-### Some know issues
-This an early version of MindStone, which mean there are bugs and issues. Below are some known issues, that I plan to work on:
-- Image link in wiki link style is not supported yet. `![[Image_link.png]]` will not work yet.  see work around below
-- Graphview does not load when clicking on side-bar or click node on graphview, browser reload will refresh it state
-- Graph view layout and interaction is still very rough. More UI/UX improvements are needed.
-- Transclusion is not working yet.
+
+[[Resources]]
+다른 프로젝트등에서 사용될만한, 쉽게 검색하기 힘들거나 유용하게 바로 사용할 수 있을만한 정보들의 모음
+
+
+
+[[Archieves]]
+가장 덜 활동적인 정보들. 이미 끝나 프로젝트 같은 정보나 정말 나중에 볼만한, 액세스 빈도가 가장 낮은 정보들
