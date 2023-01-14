@@ -28,3 +28,15 @@ secondary 컨테이너에서 primary container 접속시
 `gitlab-ctl replicate-geo-database \ --slot-name=secondary \ --host=10.0.1.66 \ --sslmode=verify-ca`
 
 slot-name psql에서 ` select * from pg_replication_slots;` 확인후 일치시키기
+
+---
+Postgresql 수정 적용
+
+gitlab-ctl reconfigure
+
+gitlab-ctl restart postgresql
+
+---
+gitlab 명령어로 포트 확인
+
+gitlab-rake gitlab:tcp_check[<primary_site_ip>,5432]
