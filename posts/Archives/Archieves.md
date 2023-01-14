@@ -1,1 +1,0 @@
-[[Monitor Application Errors with AWS CloudWatch and AWS Chatbot-Slack Client]]
