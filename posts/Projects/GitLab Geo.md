@@ -1,5 +1,5 @@
 
-참고 개요
+참고 개요 링크
 https://medium.com/ctc-mzc/gitlab-geo-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EB%B6%84%EC%84%9D-1-37cef8c440df
 
 
